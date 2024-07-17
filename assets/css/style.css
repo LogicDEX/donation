@@ -14,6 +14,9 @@
   --color-darkblue-100: #001a25f7;
   --color-gray-100: #22212d;
   --color-gray-300: #a8a7a7;
+  --color-blue-100: #1D14E2;
+  --color-black-100: #000000;
+  --color-redlight-100: #F7095C;
 
   /* Paddings */
   --padding-base: 16px;
@@ -197,7 +200,7 @@ p {
   padding: 0px 30px;
   font-size: 15px;
   font-weight: 500;
-  color: #fff;
+  color: #f70404;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -244,7 +247,7 @@ p {
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 50px;
-  color: #fff;
+  color: #ff0000;
   font-size: 14px;
   border: 2px solid #47b2e4;
   font-weight: 600;
@@ -252,7 +255,7 @@ p {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  color: #fff;
+  color: #fd0303;
   background: #31a9e1;
 }
 
@@ -397,7 +400,7 @@ p {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: #fc0404;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -406,7 +409,7 @@ p {
 }
 
 .mobile-nav-toggle.bi-x {
-  color: #fff;
+  color: #fe0404;
 }
 
 @media (max-width: 991px) {
@@ -455,7 +458,7 @@ p {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: white;
+  color: rgb(252, 4, 4);
 }
 
 .navbar-mobile a:hover,
@@ -523,10 +526,10 @@ p {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 50px;
-  font-weight: 700;
-  line-height: 56px;
-  color: #fff;
+  font-size: 80px;
+  font-weight: 800;
+  line-height: 86px;
+  color: #fd0404;
 }
 
 
