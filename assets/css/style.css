@@ -350,6 +350,12 @@ p {
   font-family: 'Montserrat', sans-serif;
 }
 
+.font-family-bold {
+  font-family: 'Anton', sans-serif;
+  font-weight: bold;
+}
+
+
 
 .btn-dark-blue{
     border: none;
@@ -530,12 +536,12 @@ p {
   font-size: 80px;
   font-weight: 800;
   line-height: 86px;
-  color: #90bcbb;
+  color: #0a1818;
 }
 
 
 #hero h2 {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(7, 0, 0, 0.6);
   margin-bottom: 50px;
   font-size: 24px;
 }
