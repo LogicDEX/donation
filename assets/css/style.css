@@ -877,7 +877,7 @@ section {
 --------------------------------------------------------------*/
 
 #tokenomics{
-  background: linear-gradient(93deg, #5dccfa -290%, #526a76 30%);
+  background: linear-gradient(93deg, #5dccfa -290%,  #e6e7e3 30%);
 }
 
 
@@ -906,7 +906,7 @@ section {
 # Roadmap
 --------------------------------------------------------------*/
 #roadmap{
-  background: linear-gradient(93deg, #5dccfa -290%, #526a76 30%);
+  background: linear-gradient(93deg, #5dccfa -290%, #e6e7e3 30%);
 }
 
 
@@ -931,7 +931,7 @@ margin-bottom: 10px;
 # Presale
 --------------------------------------------------------------*/
 #presale{
-  background: linear-gradient(274deg, #5dccfa -290%, #526a76 30%);
+  background: linear-gradient(274deg, #5dccfa -290%, #e6e7e3 30%);
 }
 
 
