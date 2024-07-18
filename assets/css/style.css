@@ -17,6 +17,7 @@
   --color-blue-100: #1D14E2;
   --color-black-100: #000000;
   --color-redlight-100: #F7095C;
+  --color-dgray-100: #526a76;
 
   /* Paddings */
   --padding-base: 16px;
@@ -147,7 +148,7 @@ p {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: #001720cf
+  background: #526a76
 }
 
 #header .logo {
@@ -200,7 +201,7 @@ p {
   padding: 0px 30px;
   font-size: 15px;
   font-weight: 500;
-  color: #f70404;
+  color: #526a76;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -247,7 +248,7 @@ p {
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 50px;
-  color: #ff0000;
+  color: #526a76;
   font-size: 14px;
   border: 2px solid #47b2e4;
   font-weight: 600;
@@ -255,7 +256,7 @@ p {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  color: #fd0303;
+  color: #526a76;
   background: #31a9e1;
 }
 
@@ -400,7 +401,7 @@ p {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fc0404;
+  color: #526a76;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -409,7 +410,7 @@ p {
 }
 
 .mobile-nav-toggle.bi-x {
-  color: #fe0404;
+  color: #526a76;
 }
 
 @media (max-width: 991px) {
@@ -514,7 +515,7 @@ p {
 #hero {
   width: 100%;
   height: 100vh;
-  background: #000a0e;
+  background: #526a76;
   background-image: url("../images/Group2.svg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -529,7 +530,7 @@ p {
   font-size: 80px;
   font-weight: 800;
   line-height: 86px;
-  color: #fd0404;
+  color: #526a76;
 }
 
 
@@ -730,7 +731,7 @@ section {
   font-size: 50px;
   font-weight: bold;
   position: relative;
-  color: #021E0A;
+  color: #526a76;
 }
 
 .section-sub-title{
@@ -799,7 +800,7 @@ section {
 # About Us
 --------------------------------------------------------------*/
 #about {
-  background: #000a0e;
+  background: #526a76;
     padding-top: 0px;
     padding-bottom: 0px;
 }
@@ -876,7 +877,7 @@ section {
 --------------------------------------------------------------*/
 
 #tokenomics{
-  background: linear-gradient(93deg, #5dccfa -290%, #000a0e 30%);
+  background: linear-gradient(93deg, #5dccfa -290%, #526a76 30%);
 }
 
 
@@ -892,11 +893,11 @@ section {
 }
 
 .table-custom-body .row:nth-child(odd) {
-  background-color:#002A3C;
+  background-color:#526a76;
 }
 
 .table-custom-body .row:nth-child(even) {
-  background-color: #00202D;
+  background-color: #526a76;
 }
 
 
@@ -905,12 +906,12 @@ section {
 # Roadmap
 --------------------------------------------------------------*/
 #roadmap{
-  background: linear-gradient(93deg, #5dccfa -290%, #000a0e 30%);
+  background: linear-gradient(93deg, #5dccfa -290%, #526a76 30%);
 }
 
 
 #roadmap .card{
-background-color:#031B25;
+background-color:#526a76;
 border-radius: 10px;
 margin-bottom: 20px;
 }
@@ -930,7 +931,7 @@ margin-bottom: 10px;
 # Presale
 --------------------------------------------------------------*/
 #presale{
-  background: linear-gradient(274deg, #5dccfa -290%, #000a0e 30%);
+  background: linear-gradient(274deg, #5dccfa -290%, #526a76 30%);
 }
 
 
