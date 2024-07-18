@@ -346,8 +346,8 @@ p {
 }
 
 
-.font-family-orbitron-normal {
- font-family: 'Orbitron', sans-serif;;
+.font-family-modern {
+  font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -530,7 +530,7 @@ p {
   font-size: 80px;
   font-weight: 800;
   line-height: 86px;
-  color: #526a76;
+  color: #90bcbb;
 }
 
 
@@ -731,7 +731,7 @@ section {
   font-size: 50px;
   font-weight: bold;
   position: relative;
-  color: #526a76;
+  color: #90bcbb;
 }
 
 .section-sub-title{
@@ -806,7 +806,7 @@ section {
 }
 
 #about h2 {
-  color: #ffffff;
+  color: #90bcbb;
 }
 
 
@@ -2180,5 +2180,5 @@ padding: unset;
 }
 
 #tokenomics .section-title h2 {
-  color: #ffffff;
+  color: #90bcbb;
 }
